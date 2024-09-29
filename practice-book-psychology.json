@@ -1,0 +1,1592 @@
+{
+  "questions": [
+    {
+      "question_id": 1,
+      "question": "The ability of a postsynaptic neuron to respond to the presence of a particular neurotransmitter that is released from a neighboring presynaptic neuron is dependent on which of the following conditions?",
+      "options": {
+        "A": "The storage of the neurotransmitter in the presynaptic neuron",
+        "B": "The ability of the neurotransmitter to penetrate the membrane of the postsynaptic neuron",
+        "C": "The presence of receptors on the postsynaptic neuron that have an affinity for that particular neurotransmitter",
+        "D": "Whether or not the neurotransmitter is excitatory or inhibitory",
+        "E": "Whether or not the postsynaptic neuron has an axon that is myelinated"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": "Organizing the string of letters B-F-J-T-A-V-K-C into JFK-TV-CAB is an example of",
+      "options": {
+        "A": "simplifying",
+        "B": "clustering",
+        "C": "seriating",
+        "D": "chunking",
+        "E": "paraphrasing"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": "When persuasive communications follow the peripheral route, they focus on which of the following?",
+      "options": {
+        "A": "Beliefs",
+        "B": "Facts",
+        "C": "Values",
+        "D": "Emotions",
+        "E": "Cognitions"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": "Consider the sentence 'The dishwasher is running.' Which of the following is true?",
+      "options": {
+        "A": "It can have more than one surface structure.",
+        "B": "It can have more than one deep structure.",
+        "C": "It is grammatically incorrect.",
+        "D": "It can have more than one syntax.",
+        "E": "It violates the rules of bottom-up processing."
+      }
+    },
+    {
+      "question_id": 5,
+      "question": "According to the Diagnostic and Statistical Manual of Mental Disorders, DSM-5-TR, children with separation anxiety disorder often experience which of the following symptoms in addition to excessive fear or anxiety over separation from attachment figures?",
+      "options": {
+        "A": "Excessive concern about the safety and wellbeing of attachment figures",
+        "B": "Persistent desire to develop relationships with adults other than those who serve as major attachment figures",
+        "C": "Pervasive anxiety about failure in school or social situations",
+        "D": "Perceptual delusions that the child’s parents have been replaced by physically identical imposters",
+        "E": "Irresistible urges to perform and repeat a certain act over and over again"
+      }
+    },
+    {
+      "question_id": 6,
+      "question": "Patients with bilateral damage to the hippocampal formation are tested on motor learning tasks such as the Tower of Hanoi. Studies show that the patients improve their performance with repeated exposures. When asked whether they have ever seen the task, even after numerous test sessions with it, they typically report not having seen it before. Such results have led to which of the following conclusions?",
+      "options": {
+        "A": "Patients with hippocampal injury suffer from confabulation similar to Korsakoff’s patients.",
+        "B": "The inability to remember the Tower of Hanoi reflects a fundamental lesion-induced inability to name objects.",
+        "C": "Although procedural memory may not rely on normal hippocampal functioning, declarative memory does.",
+        "D": "Hippocampal injury enhances the acquisition of tasks relying on motor learning.",
+        "E": "Whereas procedural memory is severely impaired after hippocampal injury, reference memory is intact."
+      }
+    },
+    {
+      "question_id": 7,
+      "question": "Which of the following is chemically similar to opiates, has the ability to reduce pain, and is blocked by the action of naloxone?",
+      "options": {
+        "A": "Norepinephrine",
+        "B": "Acetylcholine",
+        "C": "Serotonin",
+        "D": "Endorphin",
+        "E": "Dopamine"
+      }
+    },
+    {
+      "question_id": 8,
+      "question": "When stress is prolonged, the most likely result is",
+      "options": {
+        "A": "generalized weakening of the immune system",
+        "B": "damage to brain areas within the pons and medulla",
+        "C": "an increase in the level of naturally produced endorphins",
+        "D": "intensification of the effects of natural killer cells",
+        "E": "an increase in the number of T cells"
+      }
+    },
+    {
+      "question_id": 9,
+      "question": "Which of the following best characterizes an infant’s object concept at six months of age?",
+      "options": {
+        "A": "The infant’s visual system is too immature to enable focusing on an object in the visual field.",
+        "B": "The infant is unable to track moving objects in the visual field.",
+        "C": "The infant is not surprised when two objects are seen to occupy the same space at the same time.",
+        "D": "The infant’s understanding of object mechanics is as sophisticated as the adult’s understanding.",
+        "E": "The infant understands objects to be solid bounded entities that take up space and move on continuous paths."
+      }
+    },
+    {
+      "question_id": 10,
+      "question": "A 40-item vocabulary test was administered to a group of students. A second, similar test of vocabulary terms was administered to this same group of students approximately one week later. The researcher reported that the correlation between these two tests was r = .90. What type of reliability is represented in this example?",
+      "options": {
+        "A": "Test-retest",
+        "B": "Internal consistency",
+        "C": "Alternate forms",
+        "D": "Split-half",
+        "E": "Inter-rater"
+      }
+    },
+    {
+      "question_id": 11,
+      "question": "Which of the following describes the pattern of findings displayed in the graph?",
+      "options": {
+        "A": "Men who heard the jazz piece and women who heard the operatic piece scored higher on the mood inventory than those in the other two groups.",
+        "B": "People who heard the operatic piece scored higher on the mood inventory than those who heard the jazz piece.",
+        "C": "People who heard the jazz piece scored higher on the mood inventory than those who heard the operatic piece.",
+        "D": "Men scored higher than women on the mood inventory regardless of the type of music they heard.",
+        "E": "Women scored higher than men on the mood inventory regardless of the type of music they heard."
+      }
+    },
+    {
+      "question_id": 12,
+      "question": "The researcher concludes from her study that jazz music positively changes men’s moods and operatic music positively changes women’s moods. Which of the following invalidates that conclusion?",
+      "options": {
+        "A": "The participants were college students who were not music majors.",
+        "B": "Only one scale was used to measure mood.",
+        "C": "Men and women were randomly assigned to groups.",
+        "D": "Previous studies have shown that men are less emotional than women.",
+        "E": "Men’s and women’s moods were not measured before exposure to the two types of music."
+      }
+    },
+    {
+      "question_id": 13,
+      "question": "Which of the following is the most serious problem with the methodology of this research?",
+      "options": {
+        "A": "Men and women did not listen to both types of music.",
+        "B": "The singers were not the same gender.",
+        "C": "The sample size was too small to draw a valid conclusion.",
+        "D": "The participants were not musicians.",
+        "E": "Only one type of music should have been used."
+      }
+    },
+    {
+      "question_id": 14,
+      "question": "The preference for a loosely knit social framework in which individuals are responsible only for the care of their children and themselves is known as",
+      "options": {
+        "A": "collectivism",
+        "B": "individualism",
+        "C": "ethnocentrism",
+        "D": "egocentrism",
+        "E": "interactionism"
+      }
+    },
+    {
+      "question_id": 15,
+      "question": "Over many trials a puff of air aimed at JoAnne’s eyes is paired with a loud noise and a subtle smell. Afterward, it is very likely that JoAnne’s conditioned eye blink will be under the control of the loud noise and not the subtle smell. This phenomenon is an example of",
+      "options": {
+        "A": "overshadowing",
+        "B": "conditioned suppression",
+        "C": "generalization",
+        "D": "counterconditioning",
+        "E": "reinstatement"
+      }
+    },
+    {
+      "question_id": 16,
+      "question": "The idea that people cope with stress by moving toward people, away from people, or against people is most consistent with the views of",
+      "options": {
+        "A": "Aaron Beck",
+        "B": "Carl Rogers",
+        "C": "Karen Horney",
+        "D": "Erik Erikson",
+        "E": "Erich Fromm"
+      }
+    },
+    {
+      "question_id": 17,
+      "question": "Which of the following is the best example of the categorical perception of human speech?",
+      "options": {
+        "A": "Listeners are able to categorize speech samples in terms of the gender of the speaker.",
+        "B": "Listeners are able to categorize a stream of words into a series of distinct words, because they can identify the brief pauses that appear between words.",
+        "C": "When a sound is presented that is intermediate between the phonemes /b/ and /p/, listeners report that they heard either a distinct /b/ or a distinct /p/.",
+        "D": "During speech perception, listeners automatically place phonemes into one of two categories, vowels or consonants.",
+        "E": "After hearing a sentence, people process each word and make decisions about the word’s function within that sentence."
+      }
+    },
+    {
+      "question_id": 18,
+      "question": "Charles Scott Sherrington proposed that rapid stimulation of a specific synapse is likely to produce a cumulative effect in the postsynaptic cell because of",
+      "options": {
+        "A": "spatial summation",
+        "B": "temporal summation",
+        "C": "saltatory conduction",
+        "D": "neuromodulation",
+        "E": "spreading depression"
+      }
+    },
+    {
+      "question_id": 19,
+      "question": "Which of the following is an atypical developmental pattern characterized by stereotyped motor responses and poor communication skills?",
+      "options": {
+        "A": "Tardive dyskinesia",
+        "B": "Autism spectrum disorder",
+        "C": "Down syndrome",
+        "D": "Williams syndrome",
+        "E": "Attention-deficit/hyperactivity disorder"
+      }
+    },
+    {
+      "question_id": 20,
+      "question": "The sharing of information about oneself is referred to as",
+      "options": {
+        "A": "social exchange",
+        "B": "experience sampling",
+        "C": "communal sharing",
+        "D": "self-disclosure",
+        "E": "authority ranking"
+      }
+    },
+    {
+      "question_id": 21,
+      "question": "Research on children’s social behavior shows that relative to young adolescent boys, young adolescent girls exhibit more of which type of aggression?",
+      "options": {
+        "A": "Hostile",
+        "B": "Instrumental",
+        "C": "Physical",
+        "D": "Relational",
+        "E": "Displaced"
+      }
+    },
+    {
+      "question_id": 22,
+      "question": "The visual pathway that tells us what we are looking at is called the",
+      "options": {
+        "A": "corticospinal tract",
+        "B": "solitary tract",
+        "C": "spinothalamic tract",
+        "D": "dorsal stream",
+        "E": "ventral stream"
+      }
+    },
+    {
+      "question_id": 23,
+      "question": "Which theorist revised Sigmund Freud’s stages of development, replacing Freud’s psychosexual stages with psychosocial stages?",
+      "options": {
+        "A": "Karen Horney",
+        "B": "Erik Erikson",
+        "C": "Alfred Adler",
+        "D": "Viktor Frankl",
+        "E": "Abraham Maslow"
+      }
+    },
+    {
+      "question_id": 24,
+      "question": "Using a pendulum apparatus, a participant attempts to derive the physical laws that determine the rate at which a pendulum swings. The participant’s approach to solving this problem is to hold a relevant factor (X) constant and to vary a second relevant factor (Y), and then to reverse this procedure by holding Y constant and varying X. According to Jean Piaget, the participant’s level of cognitive functioning is most likely",
+      "options": {
+        "A": "preoperational",
+        "B": "concrete operational",
+        "C": "formal operational",
+        "D": "sensorimotor",
+        "E": "conventional"
+      }
+    },
+    {
+      "question_id": 25,
+      "question": "A child has just developed the ability to lie with the intention of deceiving another person. This new ability is probably based most directly on a change in the child’s",
+      "options": {
+        "A": "knowledge about mental representations",
+        "B": "skill in making transitive inferences",
+        "C": "formal operational thinking",
+        "D": "social referencing",
+        "E": "temperament"
+      }
+    },
+    {
+      "question_id": 26,
+      "question": "Rapid eye movements are most closely associated with which of the following?",
+      "options": {
+        "A": "Alpha waves",
+        "B": "Delta waves",
+        "C": "Dreaming",
+        "D": "Apnea",
+        "E": "Stage II sleep"
+      }
+    },
+    {
+      "question_id": 27,
+      "question": "If a psychological disorder has a genetic basis, one would expect to find the highest concordance rate for the illness between which of the following?",
+      "options": {
+        "A": "Mother and child",
+        "B": "Father and child",
+        "C": "Identical twins",
+        "D": "Fraternal twins",
+        "E": "Nontwin siblings"
+      }
+    },
+    {
+      "question_id": 28,
+      "question": "All of the following statements about psychodynamic theorists are correct EXCEPT:",
+      "options": {
+        "A": "Karen Horney stressed the importance of social relationships between children and their parents.",
+        "B": "Alfred Adler claimed that childhood feelings of inferiority lead to striving for superiority.",
+        "C": "Carl Jung identified two components of the unconscious: the preconscious and the formal unconscious.",
+        "D": "Erik Erikson described conflicts at different stages of development.",
+        "E": "Sigmund Freud stressed the interaction of the id, the ego, and the superego."
+      }
+    },
+    {
+      "question_id": 29,
+      "question": "Juanita’s classmates enjoy being with her because she is always sociable, easygoing, and lively. On Eysenck’s basic personality dimensions, she would be classified as",
+      "options": {
+        "A": "unstable introverted",
+        "B": "extroverted stable",
+        "C": "passive-aggressive",
+        "D": "intrinsically motivated",
+        "E": "cyclothymic dysthymic"
+      }
+    },
+    {
+      "question_id": 30,
+      "question": "Annette is looking for a psychotherapist whose clinical work is rooted in object relations theory. The best match for Annette would be a therapist who emphasizes",
+      "options": {
+        "A": "the use of medication",
+        "B": "the here and now",
+        "C": "cognitive distortions",
+        "D": "early life relationships",
+        "E": "counterconditioning"
+      }
+    },
+    {
+      "question_id": 31,
+      "question": "What pattern of results on the depression questionnaire would justify the conclusion that sleeplessness leads to depression?",
+      "options": {
+        "A": "Normal sleep control < yoked control = depressed",
+        "B": "Normal sleep control = yoked control = depressed",
+        "C": "Normal sleep control = yoked control < depressed",
+        "D": "Yoked control < normal sleep control < depressed",
+        "E": "Yoked control < normal sleep control = depressed"
+      }
+    },
+    {
+      "question_id": 32,
+      "question": "What pattern of results on the depression questionnaire would one expect if depression were to arise for reasons other than sleeplessness?",
+      "options": {
+        "A": "Normal sleep control < yoked control = depressed",
+        "B": "Normal sleep control = yoked control = depressed",
+        "C": "Normal sleep control = yoked control < depressed",
+        "D": "Yoked control < normal sleep control < depressed",
+        "E": "Yoked control < normal sleep control = depressed"
+      }
+    },
+
+    {
+      "question_id": 33,
+       "question": "Suppose that the results were consistent with the hypothesis that sleeplessness does not lead to depression. Of the following, which would be the most serious criticism of the study and its conclusion?",
+    "options": {
+    "A": "Although the questionnaire to measure depression was known to be valid, it may not have been reliable.",
+    "B": "The study failed to examine other factors that might also contribute to depression.",
+    "C": "The yoked-control group was unnecessary.",
+    "D": "One week of sleep deprivation may have been inadequate to produce depression.",
+    "E": "The normal sleep-control group was unnecessary."
+    }
+  },
+    {
+      "question_id": 34,
+      "question": "Which of the following predictions is reasonable based on Baddeley and Hitch’s theory of working memory?",
+      "options": {
+        "A": "If two tasks using the same component are done concurrently, performance will be improved on one or both.",
+        "B": "If two tasks using the same component are done concurrently, performance will be impaired on one or both.",
+        "C": "If two tasks that do not use the same component are done concurrently, performance will be improved on one or both.",
+        "D": "If two tasks that do not use the same component are done concurrently, performance will be impaired on one or both.",
+        "E": "If two tasks are done concurrently, whether or not they use the same component, performance will be unchanged."
+      }
+    },
+    {
+      "question_id": 35,
+      "question": "Which of the following was the first to systematically and empirically study memory by developing an innovative approach based on consonant-vowel-consonant combinations?",
+      "options": {
+        "A": "Hermann Ebbinghaus",
+        "B": "James Mill",
+        "C": "John B. Watson",
+        "D": "Max Wertheimer",
+        "E": "Christian von Ehrenfels"
+      }
+    },
+    {
+      "question_id": 36,
+      "question": "Which memory store is believed to have the largest capacity?",
+      "options": {
+        "A": "The sensory store",
+        "B": "The short-term store",
+        "C": "The long-term store",
+        "D": "The phonological loop",
+        "E": "The visuospatial sketch pad"
+      }
+    },
+    {
+      "question_id": 37,
+      "question": "The use of polite words such as 'please' and 'thank you' in everyday speech is called",
+      "options": {
+        "A": "morphology",
+        "B": "syntax",
+        "C": "semantics",
+        "D": "pragmatics",
+        "E": "phonetics"
+      }
+    },
+    {
+      "question_id": 38,
+      "question": "Which of the following factors would best explain why monozygotic twins, raised together, nevertheless develop different personalities?",
+      "options": {
+        "A": "Shared genetic material",
+        "B": "Non-shared genetic material",
+        "C": "Shared environments",
+        "D": "Non-shared environments",
+        "E": "Shared histories"
+      }
+    },
+    {
+      "question_id": 39,
+      "question": "Which of the following visual experiences most attracts a newborn’s gaze?",
+      "options": {
+        "A": "The color beige",
+        "B": "The color black",
+        "C": "The color white",
+        "D": "A black-and-white pattern",
+        "E": "A beige-and-white pattern"
+      }
+    },
+    {
+      "question_id": 40,
+      "question": "Edmundo got into an argument with the grocery clerk. When he returned to his car after shopping, he discovered that he received a parking ticket. Edmundo furiously crumpled up the ticket and threw it on the ground. When his friend Terri told him to calm down, he screamed at her to mind her own business. Which of the following theories best accounts for Edmundo’s behavior?",
+      "options": {
+        "A": "Excitation transfer",
+        "B": "Social identity",
+        "C": "Correspondent inference",
+        "D": "Distraction-conflict",
+        "E": "Normative focus"
+      }
+    },
+    {
+      "question_id": 41,
+      "question": "Cleotha finds out that her roommate Leontyne is a better pool player than she is. However, Cleotha reminds herself that she can play poker better than Leontyne. Cleotha is engaging in which of the following?",
+      "options": {
+        "A": "Self-verification",
+        "B": "Self-efficacy",
+        "C": "Self-affirmation",
+        "D": "Self-monitoring",
+        "E": "Self-awareness"
+      }
+    },
+    {
+      "question_id": 42,
+      "question": "According to the theory of cognitive development proposed by Lev Vygotsky, children learn best by working",
+      "options": {
+        "A": "independently",
+        "B": "with adults and advanced peers",
+        "C": "with less advanced peers",
+        "D": "with visually simple objects",
+        "E": "with visually complex objects"
+      }
+    },
+    {
+      "question_id": 43,
+      "question": "According to Jean Piaget, young infants are in which stage of development?",
+      "options": {
+        "A": "Proximal",
+        "B": "Psychosocial",
+        "C": "Attachment",
+        "D": "Sensorimotor",
+        "E": "Preoperational"
+      }
+    },
+    {
+      "question_id": 44,
+      "question": "Fred was keenly interested in a new science fiction film and therefore was surprised when he arrived at the theater on opening night and found only a few people there. Fred’s mistaken judgment of the popularity of the film illustrates",
+      "options": {
+        "A": "the self-serving bias",
+        "B": "self-handicapping",
+        "C": "pluralistic ignorance",
+        "D": "the actor-observer effect",
+        "E": "the false consensus effect"
+      }
+    },
+    {
+      "question_id": 45,
+      "question": "According to the evolutionary principle of kin selection, people are more likely to help someone who",
+      "options": {
+        "A": "is physically attractive",
+        "B": "shares their genes",
+        "C": "will return the favor",
+        "D": "is a potential mate",
+        "E": "is of higher status"
+      }
+    },
+    {
+      "question_id": 46,
+      "question": "An individual suffering from damage to Wernicke’s area would most likely exhibit which of the following behaviors?",
+      "options": {
+        "A": "Impaired comprehension of language",
+        "B": "An inability to determine what is socially acceptable behavior",
+        "C": "An explosive temper with even slight provocation",
+        "D": "An inability to form new memories",
+        "E": "An uncontrollable tremor of the hands"
+      }
+    },
+    {
+      "question_id": 47,
+      "question": "A fixed action pattern is defined as a response to a",
+      "options": {
+        "A": "secondary reinforcer",
+        "B": "generalization gradient",
+        "C": "conditioned stimulus",
+        "D": "drop in reticular activity",
+        "E": "sign stimulus"
+      }
+    },
+    {
+      "question_id": 48,
+      "question": "Based on research by Mary Ainsworth, which of the following best describes how an infant who has formed a secure maternal attachment would be expected to respond to the mother’s leaving and/or returning?",
+      "options": {
+        "A": "Upon the mother’s return, the infant will be pleased to see her and will go to her to be held.",
+        "B": "Upon the mother’s return, the infant will cry and will cling to her.",
+        "C": "Upon the mother’s return, the infant will actively avoid her.",
+        "D": "The infant will not be upset by the mother’s leaving and will not go to the mother upon her return.",
+        "E": "The infant will cry and cling to the mother as she leaves and will continue to cry throughout the mother’s absence."
+      }
+    },
+    {
+      "question_id": 49,
+      "question": "Damaging the suprachiasmatic nucleus of the hypothalamus in rats will",
+      "options": {
+        "A": "impair the ability to acquire spatial information",
+        "B": "reduce the threshold for pain resulting from injury to the limbs",
+        "C": "promote the development of maternal behavior in males",
+        "D": "interfere with the biological clock that is synchronized with light",
+        "E": "decrease aggressive behavior directed at rats of the same sex"
+      }
+    },
+    {
+      "question_id": 50,
+      "question": "Aunt Sybil paid her first visit to her niece Angela when the baby was 3 months old. Aunt Sybil enjoyed holding and playing with the baby. Aunt Sybil visited again when Angela was 9 months old. She was dismayed when the little girl took one look at her and burst into tears. Angela was exhibiting a normal emotional reaction called",
+      "options": {
+        "A": "separation anxiety",
+        "B": "avoidant attachment",
+        "C": "ambivalent attachment",
+        "D": "emotional regulation",
+        "E": "stranger anxiety"
+      }
+    },
+    {
+      "question_id": 51,
+      "question": "Which of the following therapeutic techniques can be explained by classical conditioning principles?",
+      "options": {
+        "A": "Modeling and implosion",
+        "B": "Modeling and systematic desensitization",
+        "C": "Modeling and token economies",
+        "D": "Systematic desensitization and flooding",
+        "E": "Systematic desensitization and token economies"
+      }
+    },
+    {
+      "question_id": 52,
+      "question": "Joe’s therapist frequently exhibits genuineness and empathy toward Joe. These elements are defining features of which of the following therapeutic approaches?",
+      "options": {
+        "A": "Existential",
+        "B": "Psychoanalytic",
+        "C": "Behavioral",
+        "D": "Cognitive",
+        "E": "Client-centered"
+      }
+    },
+    {
+      "question_id": 53,
+      "question": "Georgia sees a sign in the bathroom stall that says, 'Do not write on the walls under any circumstances!' Georgia takes out her pen and begins to write all over the walls. According to social psychologists, Georgia is experiencing",
+      "options": {
+        "A": "selective avoidance",
+        "B": "trivialization",
+        "C": "reactance",
+        "D": "symbolic self-awareness",
+        "E": "jeer pressure"
+      }
+    },
+    {
+      "question_id": 54,
+      "question": "The tendency to attribute your successes to dispositional factors and your failures to situational factors is called the",
+      "options": {
+        "A": "autokinetic effect",
+        "B": "hostile attribution bias",
+        "C": "self-serving bias",
+        "D": "self-fulfilling prophecy",
+        "E": "fundamental attribution error"
+      }
+    },
+    {
+      "question_id": 55,
+      "question": "What term is best used to describe the smallest meaningful unit of a language?",
+      "options": {
+        "A": "Phone",
+        "B": "Phoneme",
+        "C": "Morpheme",
+        "D": "Syntax",
+        "E": "Semantic"
+      }
+    },
+    {
+      "question_id": 56,
+      "question": "According to Johnston and Heinz’s multimode theory of attention, why is it dangerous to drive an automobile while talking on a cell phone?",
+      "options": {
+        "A": "Driving is an automatic task, but talking requires attentional resources.",
+        "B": "Talking on the phone results in the filtering of all other stimuli, including those relevant to driving.",
+        "C": "People can both talk and drive effectively, but they will not be able to remember anything about either the phone conversation or events related to driving.",
+        "D": "Both talking and driving require attentional resources, and adequate attentional resources may not be allocated to driving.",
+        "E": "Talking is an automatic task, but attentional resources need to be allocated to driving."
+      }
+    },
+    {
+      "question_id": 57,
+      "question": "The transformation of energy into electrical impulses is",
+      "options": {
+        "A": "neural processing",
+        "B": "transduction",
+        "C": "sensation",
+        "D": "a difference threshold",
+        "E": "an energy current"
+      }
+    },
+    {
+      "question_id": 58,
+      "question": "The action potential is triggered at which of the following parts of a neuron?",
+      "options": {
+        "A": "Dendrite",
+        "B": "Soma",
+        "C": "Terminal button",
+        "D": "Axon hillock",
+        "E": "Spine"
+      }
+    },
+    {
+      "question_id": 59,
+      "question": "What function is served by the white myelin sheath that may cover an axon?",
+      "options": {
+        "A": "It protects the axon from overheating.",
+        "B": "It protects the axon from microorganisms.",
+        "C": "It increases the speed of the electrical impulses.",
+        "D": "It provides the axon with nutrients.",
+        "E": "It prohibits the axon from carrying impulses."
+      }
+    },
+    {
+      "question_id": 60,
+      "question": "Which of the following is the name given to the process of differentiating oneself from others by emphasizing one’s uniqueness?",
+      "options": {
+        "A": "Personality",
+        "B": "Impression formation",
+        "C": "Deindividuation",
+        "D": "Individuation",
+        "E": "Social categorization"
+      }
+    },
+    {
+      "question_id": 61,
+      "question": "Which of the following theories places the greatest emphasis on the effects of early childhood experiences on personality?",
+      "options": {
+        "A": "Psychodynamic",
+        "B": "Humanistic",
+        "C": "Trait",
+        "D": "Social cognitive",
+        "E": "Behavioral"
+      }
+    },
+    {
+      "question_id": 62,
+      "question": "A neuron that receives excitation from other neurons and conducts impulses from its soma in the spinal cord to muscle or gland cells is called a",
+      "options": {
+        "A": "sensory neuron",
+        "B": "motor neuron",
+        "C": "neuroglia",
+        "D": "oligodendrocyte",
+        "E": "Schwann cell"
+      }
+    },
+    {
+      "question_id": 63,
+      "question": "The inability to recognize a once-familiar face, while still being able to accurately describe elements of the face, is a characteristic symptom of",
+      "options": {
+        "A": "amnesia",
+        "B": "blindsight",
+        "C": "prosopagnosia",
+        "D": "sensory neglect",
+        "E": "transcortical aphasia"
+      }
+    },
+    {
+      "question_id": 64,
+      "question": "Ability derived directly from previous experience is known as",
+      "options": {
+        "A": "crystallized intelligence",
+        "B": "fluid intelligence",
+        "C": "formal operations",
+        "D": "concrete operations",
+        "E": "prospective memory"
+      }
+    },
+    {
+      "question_id": 65,
+      "question": "Cohorts born in different decades have been found to differ in their personality characteristics during adolescence. Such findings most directly suggest that personality development",
+      "options": {
+        "A": "follows a different course for males and for females during late childhood",
+        "B": "is influenced primarily by hormonal factors",
+        "C": "is based on experience during a critical period in early childhood",
+        "D": "is influenced by the historical context in which it occurs",
+        "E": "is influenced more by peers than by parents during adolescence"
+      }
+    },
+    {
+      "question_id": 66,
+      "question": "Of several responses made to the same situation, those which are accompanied or closely followed by satisfaction to the animal will, other things being equal, be more firmly connected with the situation... ; those which are accompanied or closely followed by discomfort to the animal will, other things being equal, have their connections with that situation weakened.",
+      "options": {
+        "A": "Albert Bandura",
+        "B": "Edwin Guthrie",
+        "C": "Ivan Pavlov",
+        "D": "B. F. Skinner",
+        "E": "Edward Thorndike"
+      }
+    },
+    {
+      "question_id": 67,
+      "question": "Which of the following best represents Michael’s mental disorder according to the diathesis-stress model?",
+      "options": {
+        "A": "Diathesis: Genetic history of schizophrenia; Stress: Death of his mother",
+        "B": "Diathesis: Death of his mother; Stress: Genetic history of schizophrenia",
+        "C": "Diathesis: Genetic history of schizophrenia; Stress: Paranoid beliefs",
+        "D": "Diathesis: Death of his mother; Stress: Paranoid beliefs",
+        "E": "Diathesis: Dropping out of college; Stress: Death of his mother"
+      }
+    },
+    {
+      "question_id": 68,
+      "question": "Michael’s false belief that the cashiers were plotting against him is an example of",
+      "options": {
+        "A": "a hallucination",
+        "B": "a delusion",
+        "C": "a cognitive distortion",
+        "D": "an attribution error",
+        "E": "a dysfunctional attitude"
+      }
+    },
+    {
+      "question_id": 69,
+      "question": "Michael reported that he harmed the cashier in response to an instruction from his dead mother. This phenomenon is called",
+      "options": {
+        "A": "a delusion of reference",
+        "B": "a somatic delusion",
+        "C": "a gustatory hallucination",
+        "D": "a command hallucination",
+        "E": "magical thinking"
+      }
+    },
+    {
+      "question_id": 70,
+      "question": "Which section of a report would most likely include a description of Michael’s life experiences that are relevant to his mental disorder?",
+      "options": {
+        "A": "Diagnosis",
+        "B": "Mental status",
+        "C": "General assessment of functioning",
+        "D": "Treatment plan",
+        "E": "Psychosocial history"
+      }
+    },
+    {
+      "question_id": 71,
+      "question": "In the case of Michael, which of the following statements is true regarding the positive and negative symptoms of schizophrenia?",
+      "options": {
+        "A": "Hearing voices is a positive symptom.",
+        "B": "The fact that Michael’s grandfather had schizophrenia is a positive symptom.",
+        "C": "The perception of his mother instructing him to harm the cashier is a negative symptom.",
+        "D": "Michael’s vehement refusal to take medication is a negative symptom.",
+        "E": "Michael’s unhealthy diet is a negative symptom."
+      }
+    },
+    {
+      "question_id": 72,
+      "question": "Which of the following approaches to assessment of intelligence is most consistent with the theories of both Howard Gardner and Robert Sternberg?",
+      "options": {
+        "A": "Using biological indexes of intelligence instead of the Stanford-Binet IQ test",
+        "B": "Narrowing the definition of intelligence to include fewer key skill areas",
+        "C": "Increasing the reliability of IQ tests",
+        "D": "Increasing the emphasis on measuring g rather than specific abilities",
+        "E": "Increasing the emphasis on measuring specific abilities rather than g"
+      }
+    },
+    {
+      "question_id": 73,
+      "question": "Which of the following are two competing theories of color vision that describe events that take place at different levels of the nervous system?",
+      "options": {
+        "A": "Frequency versus place",
+        "B": "Trichromatic versus opponent-process",
+        "C": "Specificity versus pattern",
+        "D": "Frequency versus pattern",
+        "E": "Trichromatic versus specificity"
+      }
+    },
+    {
+      "question_id": 74,
+      "question": "Smokers were randomly assigned to one of two groups. Those in the experimental group were told that they would be listening to tapes with subliminal messages urging them to quit smoking. Those in the control group did not listen to the tapes, nor were they told about them. A week after listening to the tapes, members of the experimental group had decreased their smoking significantly more than members of the control group. The investigator concluded that listening to the subliminal messages reduces smoking. Which of the following, if true, casts the greatest doubt on the investigator’s conclusion?",
+      "options": {
+        "A": "During the week, some participants in the control group read articles on the hazards of smoking.",
+        "B": "During the week, only a few of the experimental participants reduced their smoking appreciably.",
+        "C": "Participants in the experimental group were influenced by their expectations of the tapes’ effects.",
+        "D": "The two groups had similar initial (baseline) smoking rates.",
+        "E": "The two groups were both quite large, but unequal in size."
+      }
+    },
+    {
+      "question_id": 75,
+      "question": "A researcher conducted a study to determine the effects of gender and status on the perceived credibility of an eyewitness testifying in a trial. Participants watched one of four video recordings depicting the eyewitness and rated the credibility of the eyewitness. What type of design was used in this study?",
+      "options": {
+        "A": "Between-subjects",
+        "B": "Within-subjects",
+        "C": "Between- and within-subjects",
+        "D": "Multivariate correlational",
+        "E": "Longitudinal"
+      }
+    },
+    {
+      "question_id": 76,
+      "question": "In order to determine whether gender, as a specific variable, had an effect on perceived credibility of the eyewitness, which of the following must be significant?",
+      "options": {
+        "A": "The main effect of gender",
+        "B": "A post hoc analysis of gender",
+        "C": "The main effect of status",
+        "D": "A post hoc analysis of status",
+        "E": "The interaction between gender and status"
+      }
+    },
+    {
+      "question_id": 77,
+      "question": "Damage to which area of the brain leads to a decrease in physically aggressive behavior and social rank?",
+      "options": {
+        "A": "Lateral hypothalamus",
+        "B": "Hippocampus",
+        "C": "Amygdala",
+        "D": "Basal ganglia",
+        "E": "Medial geniculate"
+      }
+    },
+    {
+      "question_id": 78,
+      "question": "Consider the following version of an interference task. As fast as possible, say how many items are in each row for set 1 and for set 2. Set 1: $$$ # ** &&&& Set 2: 222 5 44 3333. If participants can say how many items are in set 1 faster than they can say how many are in set 2, the result is most consistent with",
+      "options": {
+        "A": "task-general resources",
+        "B": "the pop-out effect",
+        "C": "context-dependent memory",
+        "D": "the Stroop effect",
+        "E": "task-specific resources"
+      }
+    },
+    {
+      "question_id": 79,
+      "question": "Researchers using a variety of methods, peoples, and cultures have concluded that five major personality traits exist. The traits are",
+      "options": {
+        "A": "sociability, suspiciousness, practicality, dependency, and shyness",
+        "B": "enthusiasm, calmness, adventure, docility, and hypochondria",
+        "C": "extraversion, agreeableness, conscientiousness, emotional stability, and openness to experience",
+        "D": "obedience, self-control, astuteness, tension, and self-criticism",
+        "E": "emotional stability, apprehension, social awareness, independence, and avoidance"
+      }
+    },
+    {
+      "question_id": 80,
+      "question": "Mel is doing very well academically in college, but feels academically incompetent. His therapist has instructed him to explain in writing how his hard work and personal abilities contributed to each of the good grades he received during the previous semester. This activity is characteristic of which of the following therapeutic approaches?",
+      "options": {
+        "A": "Psychoanalytic",
+        "B": "Cognitive",
+        "C": "Biomedical",
+        "D": "Behavioral",
+        "E": "Gestalt"
+      }
+    },
+    {
+      "question_id": 81,
+      "question": "The Flynn effect is the phenomenon of",
+      "options": {
+        "A": "the gradual increase in IQ scores over the last century",
+        "B": "higher IQ scores among children who were breast-fed",
+        "C": "higher IQ scores among people with higher levels of education",
+        "D": "a stronger correlation between the IQ scores of monozygotic twins than between those of dizygotic twins",
+        "E": "a stronger correlation between the IQ scores of siblings reared together than between those of siblings reared apart"
+      }
+    },
+    {
+      "question_id": 82,
+      "question": "In which of the following cognitive tasks do the performances of older adults show the greatest difference compared to the scores of young adults?",
+      "options": {
+        "A": "Divided attention task",
+        "B": "Recognition memory of narrative",
+        "C": "Recognition memory of word list",
+        "D": "Semantic memory test",
+        "E": "Implicit memory test"
+      }
+    },
+    {
+      "question_id": 83,
+      "question": "According to current conceptions, working memory is characterized by",
+      "options": {
+        "A": "stress on episodic rather than semantic memory",
+        "B": "its unitary nature",
+        "C": "maintenance of information in current use",
+        "D": "greater importance for procedural than for declarative memory",
+        "E": "required use of mnemonics"
+      }
+    },
+    {
+      "question_id": 84,
+      "question": "Before taking an exam, Sinead imagines that she will get the worst grade in the class, even though she usually performs very well. Imagining the worst seems to help her deal with the anxiety associated with the exam. What term best describes Sinead’s strategy?",
+      "options": {
+        "A": "Intrinsic motivation",
+        "B": "Defensive pessimism",
+        "C": "Self-handicapping",
+        "D": "Self-monitoring",
+        "E": "Self-regulation"
+      }
+    },
+    
+    {
+      "question_id": 85,
+      "question": "Which of the following techniques of studying the brain involves the use of x-rays?",
+      "options": {
+        "A": "Magnetic resonance imaging (MRI)",
+        "B": "Computed tomography (CT)",
+        "C": "Electroencephalography (EEG)",
+        "D": "Immunohistochemistry",
+        "E": "Microiontophoresis"
+      }
+    },
+    {
+      "question_id": 86,
+      "question": "Damage to the lateral hypothalamus of rats is known to produce deficits in regulation of",
+      "options": {
+        "A": "respiration",
+        "B": "pupillary reflexes",
+        "C": "sleep",
+        "D": "eating and drinking",
+        "E": "oxytocin levels"
+      }
+    },
+    {
+      "question_id": 87,
+      "question": "According to a current model, learned helplessness in humans is determined by causal explanations of prior uncontrollable events. These causal explanations are referred to as",
+      "options": {
+        "A": "aggregation",
+        "B": "attributions",
+        "C": "circular reasoning",
+        "D": "personal constructs",
+        "E": "valuations"
+      }
+    },
+    {
+      "question_id": 88,
+      "question": "Amyloid plaques and neurofibrillary tangles are most often characteristic of",
+      "options": {
+        "A": "substance-induced persisting amnestic disorder",
+        "B": "Alzheimer’s disease",
+        "C": "Parkinson’s disease",
+        "D": "bipolar disorder",
+        "E": "schizophrenia"
+      }
+    },
+    {
+      "question_id": 89,
+      "question": "Albert recently noticed that he has difficulty hearing people at crowded parties even though his hearing seems fine in quiet surroundings. He most likely has damage to his",
+      "options": {
+        "A": "pinna",
+        "B": "eardrum",
+        "C": "stapes",
+        "D": "oval window",
+        "E": "hair cells"
+      }
+    },
+    {
+      "question_id": 90,
+      "question": "John recently moved to a large city and experienced an increase in the level of noise. His new home was located adjacent to a railroad track. The rail service was frequent and maintained a consistent schedule. John was awakened frequently each night as trains passed his home. However, after several months he was not awakened and he became less aware of the trains passing by his home. What mechanism accounts for John’s adaptation to his environment?",
+      "options": {
+        "A": "Orienting response",
+        "B": "Sensitization",
+        "C": "Habituation",
+        "D": "Conditioned response",
+        "E": "Conditioned stimulus"
+      }
+    },
+    {
+      "question_id": 91,
+      "question": "Which of the following is a chronic condition that can cause anterograde amnesia in some people?",
+      "options": {
+        "A": "Alcoholism",
+        "B": "Fibromyalgia",
+        "C": "Muscular dystrophy",
+        "D": "Panic disorder",
+        "E": "Bipolar disorder"
+      }
+    },
+    {
+      "question_id": 92,
+      "question": "Lo is an advocate of personal construct theory. Which of the following processes does Lo believe are most important in the study of personality?",
+      "options": {
+        "A": "Biological",
+        "B": "Unconscious",
+        "C": "Cultural",
+        "D": "Emotional",
+        "E": "Cognitive"
+      }
+    },
+    {
+      "question_id": 93,
+      "question": "According to Albert Bandura’s approach to observational learning, which of the following is the best example of vicarious punishment?",
+      "options": {
+        "A": "A child stops throwing pencils after watching a teacher scold another child for throwing a pencil across the room.",
+        "B": "A child watches a teacher say to another child, 'You did so well on that homework that you do not need to take the test tomorrow.'",
+        "C": "A child acquires a schema about the difference between socially punished behavior and socially rewarded behavior.",
+        "D": "A child escapes punishment by cleaning up a mess before anyone notices it.",
+        "E": "A child is punished on a variable ratio schedule, rather than being punished every time a mistake is made."
+      }
+    },
+    {
+      "question_id": 94,
+      "question": "Cephalocaudal development refers to development that proceeds from",
+      "options": {
+        "A": "the trunk outward",
+        "B": "head to tail",
+        "C": "bottom to top",
+        "D": "the perimeter toward the center",
+        "E": "the general to the specific"
+      }
+    },
+    {
+      "question_id": 95,
+      "question": "Which of the following best states the major shortcomings of the place and the frequency-matching (volley) theories of audition?",
+      "options": {
+        "A": "Neither theory can be studied empirically.",
+        "B": "Initial evidence in support of these theories cannot be replicated.",
+        "C": "Neither theory can account for auditory disorders that are caused by structural defects in the temporal lobe.",
+        "D": "Place theory applies primarily to loud sounds, whereas frequency-matching theory applies primarily to barely audible sounds.",
+        "E": "Place theory does not explain the coding of very low frequencies, whereas frequency-matching theory does not explain the coding of very high frequencies."
+      }
+    },
+    {
+      "question_id": 96,
+      "question": "Which of the following represents the correct order of stages in Bibb Latané and John Darley’s model of helping?",
+      "options": {
+        "A": "I. Interpretation, III. Noticing, V. Deciding to help, IV. Perception of responsibility, II. Knowing how to help",
+        "B": "III. Noticing, I. Interpretation, IV. Perception of responsibility, II. Knowing how to help, V. Deciding to help",
+        "C": "III. Noticing, IV. Perception of responsibility, I. Interpretation, II. Knowing how to help, V. Deciding to help",
+        "D": "III. Noticing, IV. Perception of responsibility, II. Knowing how to help, V. Deciding to help, I. Interpretation",
+        "E": "III. Noticing, IV. Perception of responsibility, I. Interpretation, V. Deciding to help, II. Knowing how to help"
+      }
+    },
+    {
+      "question_id": 97,
+      "question": "What is a limitation of Elisabeth Kübler-Ross’s stages of coping with death (denial, anger, bargaining, depression, and acceptance)?",
+      "options": {
+        "A": "The stages are not relevant to terminally ill patients.",
+        "B": "The stages are based on a study with fewer than twenty individuals.",
+        "C": "Not all people experience every stage.",
+        "D": "Few people in Western cultures experience the depression stage.",
+        "E": "The stages are generally not relevant to younger adults."
+      }
+    },
+    {
+      "question_id": 98,
+      "question": "Which of the following statements about subliminal messages is most accurate?",
+      "options": {
+        "A": "Visual messages are more effective than auditory messages in influencing attitude and behavior change.",
+        "B": "There is evidence they can influence short-term attitude change.",
+        "C": "They are one of the most common techniques used by advertisers to influence attitude and behavior change.",
+        "D": "They are more effective than personal testimonial advertising campaigns in influencing attitude and behavior change.",
+        "E": "They are consciously perceived by participants nearly 100% of the time."
+      }
+    },
+    {
+      "question_id": 99,
+      "question": "Brain imaging techniques have shown that compared to unaffected individuals, individuals diagnosed with schizophrenia have",
+      "options": {
+        "A": "enlarged ventricles and a reduction of the prefrontal cortex",
+        "B": "reduced ventricles and a reduction of the parietal cortex",
+        "C": "an enlarged parietal cortex and a reduction of the hypothalamus",
+        "D": "lesions in the parietal lobe and increased cells in the orbital frontal cortex",
+        "E": "lesions in the temporal lobe and increased cells in the prefrontal cortex"
+      }
+    },
+    {
+      "question_id": 100,
+      "question": "Research by Solomon Asch supports which of the following?",
+      "options": {
+        "A": "Conformity increases as group size increases from two people to four or five people.",
+        "B": "The presence of one dissenter in a group is not strong enough to reduce conformity.",
+        "C": "Higher levels of conformity are found in individualistic societies than in collectivist societies.",
+        "D": "A person’s behavior changes when that person plays a role as a prisoner or prison guard in an experiment.",
+        "E": "Individuals will follow orders to shock innocent strangers."
+      }
+    },
+    {
+      "question_id": 101,
+      "question": "In which of Erik Erikson’s psychosocial stages of development is the central task to develop and exercise self-control and independence?",
+      "options": {
+        "A": "Trust versus mistrust",
+        "B": "Autonomy versus shame and doubt",
+        "C": "Initiative versus guilt",
+        "D": "Industry versus inferiority",
+        "E": "Generativity versus stagnation"
+      }
+    },
+    {
+      "question_id": 102,
+      "question": "A recent article in an educational journal described a university at which the average age is 26. This article also mentioned that 38 percent of the students are over 25 years of age. What can be concluded from this information?",
+      "options": {
+        "A": "The median age must be greater than the mean age.",
+        "B": "The standard deviation must be relatively small.",
+        "C": "The mode must be either 25 or 26.",
+        "D": "The distribution must be skewed.",
+        "E": "The distribution must be bimodal."
+      }
+    },
+    {
+      "question_id": 103,
+      "question": "Which of the following concepts does the figure above illustrate?",
+      "options": {
+        "A": "The general adaptation syndrome",
+        "B": "An intermittent schedule of reinforcement",
+        "C": "A continuous schedule of reinforcement",
+        "D": "The diathesis-stress model",
+        "E": "Signal detection theory"
+      }
+    },
+    {
+      "question_id": 104,
+      "question": "An experimenter predicts that bright colors enhance creativity. She provides brightly colored crayons to the first 15 children who show up for an experiment and muted colored crayons for the remaining 15. She then examines their drawings and judges the brightly colored drawings to be more creative. The study is flawed because it lacks",
+      "options": {
+        "A": "a double-blind procedure and an independent variable",
+        "B": "an independent variable and demand characteristics",
+        "C": "demand characteristics and a dependent variable",
+        "D": "a dependent variable and random assignment",
+        "E": "random assignment and a double-blind procedure"
+      }
+    },
+    {
+      "question_id": 105,
+      "question": "Which of the following is an example of a self-conscious emotion?",
+      "options": {
+        "A": "Joy",
+        "B": "Fear",
+        "C": "Guilt",
+        "D": "Sadness",
+        "E": "Disgust"
+      }
+    },
+    {
+      "question_id": 106,
+      "question": "A behavioral approach to personality would argue that the root of pathology lies in",
+      "options": {
+        "A": "unrealistic beliefs",
+        "B": "maladaptive learned-response patterns",
+        "C": "disordered functioning of construct systems",
+        "D": "fixation and regression",
+        "E": "incongruence"
+      }
+    },
+    {
+      "question_id": 107,
+      "question": "Five randomly selected groups of participants are shown a list of words, one word at a time. Each group of participants is assigned a different task to perform on each word on the list. After completing the list, the participants are given a surprise test for recall of the words. Which of the following assigned tasks is most likely to result in the best recall?",
+      "options": {
+        "A": "Counting the number of vowels in each of the words",
+        "B": "Indicating whether each of the words contains the letter 't'",
+        "C": "Producing a rhyme for each of the words",
+        "D": "Saying each of the words three times in rapid succession",
+        "E": "Producing a synonym for each of the words"
+      }
+    },
+    {
+      "question_id": 108,
+      "question": "In a lexical decision task, two groups of participants are instructed to make a fast decision on whether each item is or is not an English word. The first group of participants is presented with the word 'robin,' followed by the word 'bird.' The second group is presented with the word 'chair,' followed by the word 'bird.' The first group’s responses to 'bird' will most likely be",
+      "options": {
+        "A": "slower because of Stroop-like interference",
+        "B": "slower because of lateral inhibition",
+        "C": "slower because of a sequence effect",
+        "D": "faster because of semantic priming",
+        "E": "faster because of response bias"
+      }
+    },
+    {
+      "question_id": 109,
+      "question": "The antianxiety effects of benzodiazepines such as diazepam result from their binding with the receptor for which of the following neurotransmitters found in the amygdala?",
+      "options": {
+        "A": "Serotonin",
+        "B": "Acetylcholine",
+        "C": "Substance P",
+        "D": "Gamma-aminobutyric acid (GABA)",
+        "E": "Norepinephrine"
+      }
+    },
+    {
+      "question_id": 110,
+      "question": "A persistent, unreasonable, and unwanted thought is known as",
+      "options": {
+        "A": "a negative symptom",
+        "B": "a hallucination",
+        "C": "a compulsion",
+        "D": "an obsession",
+        "E": "a fugue"
+      }
+    },
+    {
+      "question_id": 111,
+      "question": "Which of the following distinguishes experts from novices in many fields of endeavor?",
+      "options": {
+        "A": "More social connections",
+        "B": "Speed in recognizing relevant complex patterns",
+        "C": "Innate talent for performing in the particular field",
+        "D": "Greater short-term memory capacity",
+        "E": "Shorter reaction times to simple stimuli"
+      }
+    },
+    {
+      "question_id": 112,
+      "question": "Consider the diagram above in which the outcomes for two people (Joanne and Malik) are represented as a series of numbers, depending on their own behavior and the behavior of the other person. A scientist uses these outcomes to predict the likely behavior of each of the individuals. The scientist is most likely studying which of the following?",
+      "options": {
+        "A": "Self-perception",
+        "B": "Cognitive heuristics",
+        "C": "The self-fulfilling prophecy",
+        "D": "Attribution theory",
+        "E": "Social exchange"
+      }
+    },
+    {
+      "question_id": 113,
+      "question": "Eliciting sympathy in order to create a positive impression is consistent with which of the following self-presentation strategies?",
+      "options": {
+        "A": "Modesty",
+        "B": "Intimidation",
+        "C": "Exemplification",
+        "D": "Supplication",
+        "E": "Conformity"
+      }
+    },
+    {
+      "question_id": 114,
+      "question": "Which of the following statements describes normative influence?",
+      "options": {
+        "A": "The process by which we come to evaluate and know others",
+        "B": "The tendency for impressions of others to be heavily influenced by information gathered early in an interaction",
+        "C": "A set of theories describing how people explain causes of behavior",
+        "D": "Conformity motivated by a fear of social rejection",
+        "E": "Conformity motivated by the belief that others are correct"
+      }
+    },
+    {
+      "question_id": 115,
+      "question": "Which of the following hormones is responsible for preparing the uterus for the implantation of an ovum that has been fertilized?",
+      "options": {
+        "A": "Progesterone",
+        "B": "Melatonin",
+        "C": "Oxytocin",
+        "D": "Vasopressin",
+        "E": "Aldosterone"
+      }
+    },
+    {
+      "question_id": 116,
+      "question": "An adolescent who says, 'I won’t become ill from smoking; I never get sick,' is most likely operating under which aspect of egocentrism?",
+      "options": {
+        "A": "Personal fable",
+        "B": "Imaginary audience",
+        "C": "Deductive reasoning",
+        "D": "Immanent justice",
+        "E": "Hypothetical reasoning"
+      }
+    },
+    {
+      "question_id": 117,
+      "question": "Alfred Adler developed his theory of individual psychology as a result of his disagreement with which of the following?",
+      "options": {
+        "A": "Carl Roger’s belief that human growth is dependent on unconditional positive regard",
+        "B": "Sigmund Freud’s emphasis on universal biological forces in the personality",
+        "C": "Albert Bandura’s focus on reciprocal determinism as a key factor in shaping personality",
+        "D": "Gordon Allport’s belief that personality is made up of individual fundamental traits",
+        "E": "Abraham Maslow’s emphasis on a hierarchy of needs in creating motivation"
+      }
+    },
+    {
+      "question_id": 118,
+      "question": "Which school of psychology rejected the concept of consciousness and defined psychology as an objective natural science?",
+      "options": {
+        "A": "Structuralism",
+        "B": "Functionalism",
+        "C": "Behaviorism",
+        "D": "Humanistic psychology",
+        "E": "Gestalt psychology"
+      }
+    },
+    {
+      "question_id": 119,
+      "question": "Which of the following is a memory store that is highly sensitive to masking stimuli presented within 200–300 milliseconds of the presentation of an array of letters?",
+      "options": {
+        "A": "Sensory memory",
+        "B": "Short-term memory",
+        "C": "Working memory",
+        "D": "Implicit memory",
+        "E": "Semantic memory"
+      }
+    },
+    {
+      "question_id": 120,
+      "question": "The neural hub of the central executive portion of working memory is thought to be located in the",
+      "options": {
+        "A": "prefrontal cortex",
+        "B": "somatosensory cortex",
+        "C": "brainstem",
+        "D": "temporal lobe",
+        "E": "occipital lobe"
+      }
+    },
+    {
+      "question_id": 121,
+      "question": "In an experimental procedure, an animal receives a half second of foot shock, then a half second of no stimulus, and then a tone. In a later presentation of the tone, the animal displays a fear response. This result most likely indicates the occurrence of",
+      "options": {
+        "A": "backward conditioning",
+        "B": "forward conditioning",
+        "C": "delayed conditioning",
+        "D": "simultaneous conditioning",
+        "E": "operant conditioning"
+      }
+    },
+    {
+      "question_id": 122,
+      "question": "The full Moon looks much larger when it is on the horizon than when it is high in the sky. Which of the following is the best explanation for this phenomenon?",
+      "options": {
+        "A": "More rods are stimulated by the Moon when it is just above the horizon than when it is high in the sky.",
+        "B": "Size judgment is based on visual cues between the viewer and the image of the Moon.",
+        "C": "Brightness constancy cues are disrupted by interfering stimulation.",
+        "D": "The image of the Moon high in the sky exceeds the difference threshold.",
+        "E": "Judgment is based on the Gestalt principle of proximity."
+      }
+    },
+    {
+      "question_id": 123,
+      "question": "Which of the following philosophers insisted that the mind at birth is like a blank slate devoid of character or ideas?",
+      "options": {
+        "A": "François-Marie Arouet de Voltaire",
+        "B": "James Mill",
+        "C": "John Stuart Mill",
+        "D": "David Hume",
+        "E": "John Locke"
+      }
+    },
+    {
+      "question_id": 124,
+      "question": "The overjustification effect states which of the following?",
+      "options": {
+        "A": "Positive reinforcement is consistently more effective than negative reinforcement.",
+        "B": "Extrinsic rewards can diminish children’s intrinsic motivation to learn.",
+        "C": "Extrinsic rewards are best when used with intrinsically motivated students.",
+        "D": "Academic grades increase students’ intrinsic motivation to learn.",
+        "E": "Behavior modification improves internal motivation in large classrooms."
+      }
+    },
+    {
+      "question_id": 125,
+      "question": "The belief that differences among spoken languages cause differences in the thinking and problem-solving styles of speakers is called",
+      "options": {
+        "A": "taxonomic bias",
+        "B": "whole-object bias",
+        "C": "the tip-of-the-tongue phenomenon",
+        "D": "the typicality effect",
+        "E": "the Sapir-Whorf hypothesis"
+      }
+    },
+    {
+      "question_id": 126,
+      "question": "Which of the following is the correct sequence of stages of prenatal development?",
+      "options": {
+        "A": "Embryo, gestation, neonate",
+        "B": "Gestation, embryo, fertilized ovum",
+        "C": "Embryo, fertilized ovum, fetus",
+        "D": "Fertilized ovum, embryo, fetus",
+        "E": "Fetus, embryo, fertilized ovum"
+      }
+    },
+    {
+      "question_id": 127,
+      "question": "Participants in a social psychological experiment observe through a one-way glass as two students take an oral quiz. The situation is arranged such that both Arthur and Sheri get 15 of the 25 questions correct, but Arthur gets each of the first 5 questions correct, while Sheri gets none of the first 5 correct. Most participant observers would likely conclude that",
+      "options": {
+        "A": "Arthur is a better student than Sheri",
+        "B": "Sheri is a better student than Arthur",
+        "C": "Arthur and Sheri are approximately equally able students",
+        "D": "The experiment does not provide any information about the ability of Arthur or Sheri",
+        "E": "Arthur and Sheri are confederates in the experiment"
+      }
+    },
+    {
+      "question_id": 128,
+      "question": "The confirmation bias leads people to draw incorrect conclusions because they",
+      "options": {
+        "A": "use algorithms when they should use heuristics",
+        "B": "use deductive reasoning when they should use inductive reasoning",
+        "C": "do not seek evidence that would disprove their hypotheses",
+        "D": "do not consider alternative uses for a well-known object",
+        "E": "mistakenly attribute the causes of other people’s behavior to internal factors"
+      }
+    },
+    {
+      "question_id": 129,
+      "question": "Dr. Wang is a theorist who is interested in how a given behavior increases an organism’s chance of reproductive success and perpetuates the species. Dr. Wang is most likely",
+      "options": {
+        "A": "an evolutionary psychologist",
+        "B": "a neuropsychologist",
+        "C": "a cognitive theorist",
+        "D": "a sociologist",
+        "E": "a learning theorist"
+      }
+    },
+    {
+      "question_id": 130,
+      "question": "In his study of schizophrenia, Dr. Perez collects data on the number of new cases of this diagnosis in the United States in the past year. This statistic is known as the",
+      "options": {
+        "A": "prevalence",
+        "B": "incidence",
+        "C": "base rate",
+        "D": "correlation",
+        "E": "sample"
+      }
+    },
+    {
+      "question_id": 131,
+      "question": "A security screener in an airport checks by hand everything that seems suspicious. It is critical that she never let any potentially dangerous item through her security checkpoint. In terms of signal detection theory, this screener is likely to make",
+      "options": {
+        "A": "a large number of misses and a small number of hits",
+        "B": "a large number of hits and a large number of false alarms",
+        "C": "a large number of misses and a large number of false alarms",
+        "D": "a small number of hits and a small number of false alarms",
+        "E": "a large number of correct rejections and a large number of false alarms"
+      }
+    },
+    {
+      "question_id": 132,
+      "question": "The Premack principle states that",
+      "options": {
+        "A": "a more frequent behavior will reinforce a less frequent behavior",
+        "B": "intrinsic motivation is reduced when it is overused",
+        "C": "there is a contingent relationship between stimulus and response",
+        "D": "reinforcement is illusory when it is noncontingent",
+        "E": "reinforcement increases expectation and motivation"
+      }
+    },
+    {
+      "question_id": 133,
+      "question": "Elizabeth Loftus and her colleagues ask students to talk about various events that have occurred in their lives, including one that never occurred. If the students have trouble remembering, the researchers provide cues. They record whether the students remember the events that never occurred and how confident the students are in these false memories. Which of the following best describes the findings?",
+      "options": {
+        "A": "About 25% of the students remember the false event, and many are quite confident in it.",
+        "B": "Students almost never remember false events, although they remember about 80% of the real events.",
+        "C": "About 80% of the students remember the false event, but their confidence is uniformly low.",
+        "D": "Students almost never remember false events, and their memory for the actual events is also quite low.",
+        "E": "False memories can be implanted in about 40% of the students, but these memories are forgotten within about a week."
+      }
+    },
+    {
+      "question_id": 134,
+      "question": "Melvin has a set of Von Frey hairs of different diameters. He starts by pressing a thin hair against a participant’s toe and continues with increasingly thicker hairs until the participant feels pressure. Melvin then starts with a thick hair and uses increasingly thinner hairs until the participant does not feel pressure. Melvin is using the method of",
+      "options": {
+        "A": "limits",
+        "B": "adjustment",
+        "C": "constant stimuli",
+        "D": "magnitude estimation",
+        "E": "loci"
+      }
+    },
+    {
+      "question_id": 135,
+      "question": "Long-term potentiation is widely assumed to be the physiological mechanism of",
+      "options": {
+        "A": "attention",
+        "B": "learning",
+        "C": "epilepsy",
+        "D": "emotion",
+        "E": "sexuality"
+      }
+    },
+    {
+      "question_id": 136,
+      "question": "Roberta lives on the first floor of her dorm. She notices that she has made more friends with others who live on her floor than with others on other floors. This is an example of",
+      "options": {
+        "A": "self-reference",
+        "B": "perseverance",
+        "C": "propinquity",
+        "D": "overjustification",
+        "E": "bystander"
+      }
+    },
+    {
+      "question_id": 137,
+      "question": "Some researchers believe that people acquire a second language better if they learn it prior to adolescence, whereas other researchers believe that people can easily learn most aspects of a second language, even if they are beyond adolescence. However, based on the most frequently observed limitation in second language use, both groups would expect to observe less than native-like competence after adolescence in which of the following?",
+      "options": {
+        "A": "Syntax",
+        "B": "Pronunciation",
+        "C": "Fluency of speech production",
+        "D": "Discourse comprehension",
+        "E": "Semantics"
+      }
+    },
+    {
+      "question_id": 138,
+      "question": "The legal requirement that professionals notify appropriate authorities about suspected child abuse is known as",
+      "options": {
+        "A": "mandatory reporting",
+        "B": "duty to warn",
+        "C": "duty to protect",
+        "D": "parens patriae",
+        "E": "privileged communication"
+      }
+    },
+    {
+      "question_id": 139,
+      "question": "A researcher conducted a study to determine the effects of gender and status on the perceived credibility of an eyewitness testifying in a trial. Participants watched one of four video recordings depicting the eyewitness and rated the credibility of the eyewitness.",
+      "options": {
+        "A": "Between-subjects",
+        "B": "Within-subjects",
+        "C": "Between- and within-subjects",
+        "D": "Multivariate correlational",
+        "E": "Longitudinal"
+      }
+    },
+    {
+      "question_id": 140,
+      "question": "In order to determine whether gender, as a specific variable, had an effect on perceived credibility of the eyewitness, which of the following must be significant?",
+      "options": {
+        "A": "The main effect of gender",
+        "B": "A post hoc analysis of gender",
+        "C": "The main effect of status",
+        "D": "A post hoc analysis of status",
+        "E": "The interaction between gender and status"
+      }
+    },
+    {
+      "question_id": 141,
+      "question": "Damage to which area of the brain leads to a decrease in physically aggressive behavior and social rank?",
+      "options": {
+        "A": "Lateral hypothalamus",
+        "B": "Hippocampus",
+        "C": "Amygdala",
+        "D": "Basal ganglia",
+        "E": "Medial geniculate"
+      }
+    },
+    {
+      "question_id": 142,
+      "question": "Dr. Chen is interested in feminist attitudes of young adult women in the United States. Consequently, she administered a feminist attitude questionnaire to a total of 100 young adult women from three universities. The 100 women tested and the number of young adult women in the United States are which of the following, respectively?",
+      "options": {
+        "A": "Effect size and population",
+        "B": "Meta-analysis and effect size",
+        "C": "Sample and population",
+        "D": "Random assignment and random selection",
+        "E": "Independent variable and dependent variable"
+      }
+    },
+    {
+      "question_id": 143,
+      "question": "Which of the following are the two individuals credited with the founding of psychology, as indicated by the formation of psychology laboratories in the 1870s?",
+      "options": {
+        "A": "Mary Calkins and Wilhelm Wundt",
+        "B": "Ernst Weber and Gustav Fechner",
+        "C": "Gustav Fechner and E. B. Titchener",
+        "D": "Wilhelm Wundt and William James",
+        "E": "William James and Sigmund Freud"
+      }
+    },
+    {
+      "question_id": 144,
+      "question": "A researcher investigating the effects of a certain medication found that individuals taking the drug performed better on a memory task than those taking a placebo. However, performance gains were only significant for those with low memory ability before treatment. This finding is an example of",
+      "options": {
+        "A": "a demand characteristic",
+        "B": "an interaction",
+        "C": "an order effect",
+        "D": "a main effect",
+        "E": "a confound"
+      }
+    }
+]
+
+
+
